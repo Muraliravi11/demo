@@ -3,17 +3,17 @@
     {
       "id": 1,
       "task": "BreakFast",
-      "completed":"false"
+      "completed": false
     },
     {
       "id": 2,
       "task": "Lunch",
-      "completed":"false"
+      "completed": false
     },
     {
       "id": 3,
       "task": "Dinner",
-      "completed":"false"
+      "completed": false
     }
   ]
 }
